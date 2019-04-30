@@ -13,3 +13,8 @@ function whileLoop(n){
   }
   return 'done'
 }
+function doWhileLoop(num){
+  function incrementVariable(){
+    
+  }
+}
